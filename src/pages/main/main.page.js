@@ -15,6 +15,7 @@ import "./main.page.scss";
 const Main = () => {
   return (
     <>
+      <div className="background"></div>
       <Header></Header>
       <Nav></Nav>
       <About></About>
